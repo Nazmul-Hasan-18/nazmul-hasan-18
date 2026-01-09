@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Deanicked=7AF79A&size=30&lines=Hey!+It'Nazmul!;I'm+a+learning+developer...;CRAZY+fan+of+Javascript;And+I'm+a+workaholic+person;looking+to+contribute;)](https://git.io/typing-svg)
 
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=asaduzzaman8316&theme=github-compact&hide_border=true&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nazmul-hasan-18&theme=github-compact&hide_border=true&area=true)
 
 #### Socials:
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=About.me&logoColor=white)](https://asaduzzaman-dev.vercel.app/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/asaduzzaman.dev/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/asaduzzaman.dev/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdasaduzzamancse/) 
