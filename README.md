@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Deanicked=7AF79A&size=30&lines=Hey!+It'Asaduzzaman!;I'm+a+learning+developer...;CRAZY+fan+of+Javascript;And+I'm+a+workaholic+person;looking+to+contribute;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Deanicked=7AF79A&size=30&lines=Hey!+It'Nazmul!;I'm+a+learning+developer...;CRAZY+fan+of+Javascript;And+I'm+a+workaholic+person;looking+to+contribute;)](https://git.io/typing-svg)
 
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=asaduzzaman8316&theme=github-compact&hide_border=true&area=true)
