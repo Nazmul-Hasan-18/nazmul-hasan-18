@@ -10,5 +10,5 @@
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html) [![Tailwind](https://img.shields.io/badge/tailwind-%231572B6.svg?style=for-the-badge&logo=tailwind&logoColor=white)](https://tailwindcss.com/) [![Javascript](https://img.shields.io/badge/javascript-%230175C2.svg?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![React](https://img.shields.io/badge/react-%23E34F26.svg?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/) [![Next.js](https://img.shields.io/badge/next.js-%230175C2.svg?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/) 
 
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=https://github.com/Nazmul-Hasan-18&theme=dark&hide_border=false&layout=compact)
 
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=asaduzzaman8316&theme=dark&hide_border=false&layout=compact)
